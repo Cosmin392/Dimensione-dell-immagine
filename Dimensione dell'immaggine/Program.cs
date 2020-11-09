@@ -12,7 +12,7 @@ namespace Dimensione_dell_immaggine
             int n2 = Convert.ToInt32(Console.ReadLine());
             int calcolo = ((n1 * n2) * 3) / 1024;
                 Console.WriteLine($"L'immaggine pesa {calcolo}KB");
-            //co
+            //codcie
         }
     }
 }
